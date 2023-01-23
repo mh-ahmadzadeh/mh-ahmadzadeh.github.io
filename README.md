@@ -1,8 +1,4 @@
-# this is my first site
- [PGM](https://mh-ahmadzadeh.github.io/PGM/)
+# Size Limit [![Cult Of Martians][cult-img]][cult]
 
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are  $x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
-
-
-$$P_\lambda={n_\alpha\over 2}\hbar\omega\,{1+R\over 1-v^2}\int\limits_{-1}^{1}dx\,(x-v)|x-v|,$$
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
